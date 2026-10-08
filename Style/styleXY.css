@@ -28,3 +28,14 @@ td {
 .mediaAlta{
     background-color: lightyellow;
 }
+
+.media {
+    background-color: lightgray;
+}
+.ciudad{
+    background-color: lightblue;
+    color: white;
+}
+.encabezado{
+    background-color: whitesmoke;
+}
