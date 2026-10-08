@@ -1,0 +1,19 @@
+body{
+    background-color: antiquewhite;
+}
+.green{
+    background-color: greenyellow;
+}
+.greenlist{
+    background-color: rgb(121, 197, 6 );
+}
+.negrita{
+    font-weight: bold;
+    font-size: larger;
+}
+.peque{
+    font-size: smaller;
+}
+.cursiva{
+    font-style: italic;
+}

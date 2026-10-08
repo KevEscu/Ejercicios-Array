@@ -1,0 +1,30 @@
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+.frio{
+    color: blue;
+}
+.calor{
+    color: red;
+}
+.minima{
+    font-weight: bold;
+    text-decoration: underline;
+}
+.maxima{
+    color: brown;
+    font-style: italic;
+}
+.finde{
+    background-color: lightgreen;
+}
+.mediaAlta{
+    background-color: lightyellow;
+}
